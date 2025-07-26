@@ -1,18 +1,25 @@
 # BeroZimbabwe
 {
 "categorieCam": [
-{
-"name": "Movies",
-"videos": [
-{
-"descriptionCam": "RT Zimbabwe",
-"sourceCam": [
-"https://webstreaming-2.viewmedia.tv/web_018/Stream/playlist.m3u8"
-],
-"subtitleCam": "By Channel",
-"thumbCam": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-"titleCam": "YADAH TV"
-},
+      {
+    "name": "Movies",
+    "videos": [
+        {
+    "descriptionCam": "Yadah tv is a christian channel in Harare Republic of Zimbabwe",
+    "sourceCam": [
+    "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8"
+    ],
+    "subtitleCam": "All Channel",
+    "numberCam": "476",
+    "thumbCam": "https://od.lk/s/NDZfODQyMjU4ODdf/yadahtv.jpeg",
+    "titleCam": "YADAH TV"
+        }
+      ]
+    }
+  ]
+}
+
+
 {
 "descriptionCam": "RT Zimbabwe",
 "sourceCam": [
@@ -21,8 +28,4 @@
 "subtitleCam": "By Channel",
 "thumbCam": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
 "titleCam": "RT ZIMBABWE"
-}
-]
-}
-]
 }
